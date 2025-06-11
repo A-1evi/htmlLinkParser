@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	link "htmlLinkParser"
 	"strings"
+
+	link "github.com/A-1evi/htmlLinkParser"
 )
 
 var exampleHtml = `<html>
